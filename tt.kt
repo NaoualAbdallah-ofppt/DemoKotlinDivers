@@ -1,0 +1,1 @@
+class cc(var v:Int, num:Int):test(num)
